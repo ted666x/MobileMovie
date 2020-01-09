@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FavoriteDetail" >
+
+    <ImageView
+        android:id="@+id/coverFilem"
+        android:layout_width="match_parent"
+        android:layout_height="400px"
+        android:scaleType="centerCrop"
+        android:src="@drawable/wall"/>
+
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+        <TextView
+            android:id="@+id/no"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="1sp"
+            android:visibility="invisible"/>
+        <TextView
+            android:id="@+id/txtJudul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:text="Hai this is sample text for title"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tayang"
+            android:layout_marginTop="30dp"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:id="@+id/txtTgl"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="30dp"
+            android:layout_marginLeft="90dp"
+            android:layout_height="wrap_content"
+            android:text="2019-06-11"
+            android:textStyle="bold" />
+        <ScrollView
+            android:layout_below="@id/txtTgl"
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+                <TextView
+                    android:id="@+id/txtRingkasan"
+                    android:layout_width="wrap_content"
+                    android:layout_height="400dp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="2dp"
+                    android:textAlignment="center"
+                    android:textSize="15sp"
+                    android:textColor="@android:color/black"
+                    android:text="A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life."/> />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="2dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+        </LinearLayout>
+
+
+</LinearLayout>

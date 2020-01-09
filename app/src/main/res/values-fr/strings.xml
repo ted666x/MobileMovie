@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mon film</string>
+    <string name="detail">détails</string>
+    <string name="tayang">Lancer   :</string>
+    <string name="ganti_bahasa">Changer De Language</string>
+    <string name="keluar">OUT</string>
+    <string name="favorit">Les favoris</string>
+    <string name="toastberhasil">A réussi</string>
+    <string name="lihatdetail">Voir les détails</string>
+    <string name="updatedetail">Mise à jour détaillée</string>
+    <string name="hapusfilm">Retirer le film</string>
+    <string name="pilihan">Choix</string>
+    <string name="update">mettre à jour</string>
+    <string name="back">retour</string>
+    <string name="player_error">Erreur lors del initialisation du lecteur YouTube: %s</string>
+    <string name="seek_to">Sauter à</string>
+    <string name="seek_to_hint">Secondes</string>
+    <string name="trailer">Regarde la bande-annonce</string>
+    <string name="add_favorit">Appuyez sur l icône étoile pour ajouter un favori et vous pourrez le voir chaque fois que vous le souhaitez.</string>
+</resources>

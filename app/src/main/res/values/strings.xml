@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="detail">Detail</string>
+    <string name="tayang">Launching :</string>
+    <string name="ganti_bahasa">Change Language</string>
+    <string name="keluar">Out</string>
+    <string name="favorit">Favorite</string>
+    <string name="toastberhasil">Success</string>
+    <string name="lihatdetail">See Detail</string>
+    <string name="updatedetail">Update Detail</string>
+    <string name="hapusfilm">Delete Movie</string>
+    <string name="pilihan">Options</string>
+    <string name="update">Update</string>
+    <string name="back">Back</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="trailer">Watch Trailer</string>
+    <string name="add_favorit">Press star icon to add Favorite and you can see it every time you want</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+<string name="app_name">FilemKU</string>
+<string name="detail">Selengkapnya</string>
+<string name="tayang">Peluncuran :</string>
+<string name="ganti_bahasa">Ganti Bahasa</string>
+<string name="keluar">Keluar</string>
+<string name="favorit">Favorit</string>
+<string name="toastberhasil">Berhasil</string>
+<string name="lihatdetail">Lihat Detail</string>
+<string name="updatedetail">Update Detail</string>
+<string name="hapusfilm">Hapus Film</string>
+<string name="pilihan">Pilihan</string>
+<string name="update">Ubah</string>
+<string name="back">Kembali</string>
+<string name="player_error">Kesalahan saat menginisialisasi pemutar YouTube: %s</string>
+<string name="seek_to">Lompat Ke</string>
+<string name="seek_to_hint">Detik</string>
+<string name="trailer">Nonton Cuplikan</string>
+<string name="add_favorit">Tekan ikon bintang untuk menambahkan Favorit dan Anda dapat melihatnya setiap kali Anda inginkan</string>
+</resources>
