@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\76e1862a3b87dc7b2f83e1cf719439cee1e84768\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_0250a1fa143d37f75286e84ca324d0cde6541605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\0cc71cb7db4fab1d277b7a5a02f920dfea3f30f5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_1759420a09d94c2d6b8ae3dd3524d3b43615d4b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\7f586aca3f9f5b45d018bf2b47682482c2913a50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ef698b3c8609d86cac06834429a39ef417d5b57a">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_18fce971b14e7c6292bc2bd0113f81424b3f1402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\a993a4b3472faa22e3a7b06fdae2ef16c408b12d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_6759588e7f222225d44c8b7cb7cc4c57e9d8826f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\6bf59e54daad0a0e76dea48f2b419923edb9b963\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_58cd4865628142352a71f1559bf9df098684af37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\80fb75ad08318a6f646f2fe9c608c5dd1378e94c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_1485ba1630200d94731fdfbdfb0f0937a17259d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\d6dca94d48ed4b034fcc17e38e227935517d44fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_bde6afceba9fd9ffd64d0d795a1f1ab2e22fc695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_9382702c8813989f3f4e48164f3d2f087f39a446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\b9b1b9b9daf8c5836dace61cba50d72ec4e1ad3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_92379f43cef6d18c6ff475923c665fca7f624d20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\okio-1.9.0_380fc0150bba39f57edd82d5b6ddd068232b3d2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\bc2b55f23adf698d8e2f82622c139a821fb6b0fa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3fec43a847d8788b7642a1932e6266ef8bdab169">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_3f7384500b211f4780b579ba1747f83406791a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\666fbde69b09d6db2a6c13a0a9766f68d0524882\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_3c41459fed4b3dcf29b1d84cfd63fcd54da59e5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\glide-3.7.0_8a81ed219890dfa3d469396fcfaf6b8f4c7aef32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\4c518716c00ef29d9db9dc6eef1edf4276e98574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_e8a9a7f218c0614c4bdcb14bcc69cfe92f88212c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\common-1.1.1_dff18c8a00b2cb87d035fbb88af9dc7cc7988196.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\dedc1dcd90d00c062631ea76c1ebc8c0e7cad820\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_80fd6c7020b0c8096de89bffadbf110096d21ac8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_c367b320e4069c28490a5969189c99710835afb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\6b98865e137f64e64ac33bd431a292f67af1add2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_317826c8c43564b5cdcc57e9d5eae55f78dcdc08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\3886baff489b27e1649844d4ec759586d258fdc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_8eb075439fccf04b0f3d7340d94d962cfb998438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\f2a5249435530cf040d9cbf3e5075ffe49655d88\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_657df71bfb87638cce9cd8075fb10a195e3eba64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\6b2622dab6bdd692d5af2901b3b9de6531b9f294\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_4ae59b2bbf3bfc49281617a8b681c02733c26b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Pemrograman Android\FIX\UAS_mobile-master\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_1c126df46b8ed8cc9a03b27d2fd7b150b5e2f9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\a12ecff7de23baf4fd84a334fb0e7bf58f073dc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_b5b32aa8b1b5b643a9d1e47bf21445762a88b7a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\b728993a9c39a7c40aba7a194d5341de76e43060\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_42287c45f5d6cc0b8d42b95a3a0cfb3c350a86ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\3a58056cfe5d5fa86fb701733e84b10da9b6edc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_a4a577907fcd492b320d5fafd753adf15589e947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\d61f86f0c9b5647649682af837a0497092f5c60b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_9c5311f4dd1760550fe1f7f9f5f0dc33c45bd252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\620b0ddeac59ab4b827905b5bb8ef13dcd85779e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_f4bd09c5e51439c46035e90ba6ef4efdb082d843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\com.android.support\collections\28.0.0\c1bcdade4d3cc2836130424a3f3e4182c666a745\collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\collections-28.0.0_12926b2517487170abd5f99404e073a79273e8c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\ba4053820c5955acbf0f758726e1658ca61395ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_280d68b70ab035ee4aa3eb3539da1a7fc8011d80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\2fe331513f9aaed416fa3b0ac769811c108366e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_595ab622624cb67f4f23271558408adb7728da20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\common-1.1.1_46cbb9288a401af863f49177b5ad807e8df6106d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\6b808ae41c689d796acd5d00ed59288009ff0b55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_f6c3d6c3c1edd130648c427fbc601b424e8552a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\1ecb49da532d254b995bf5ab42310f1c9cfbe4d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_9b1651ce75c1dddfe0c0084a57cf2678884c84aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0\ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8\support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\support-annotations-28.0.0_ff5de95e924504e2dddd66a5bae7080d191db5b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\e3e96ecd5f055610a811c1bb8ca3ec4d52dcbdc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_0a611b1845abea87a355d4b2aa23d64f46dd064a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\fe0aeb68dae0d331b44bfdee693b627175b7e1e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_1bcb107a727a2cf637e0ab5d7f34e2e4bb4b6102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\b7208e907300c6c01eeac912f70e6e40ae90ca52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_cad88e48de86e98917641a64b21cb920267fc2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\7e3f3c1f88d4570e08d68dacb63df734132251e6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_136158881120177b2de50c535bdb6ae976ba9ad0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ahmad Tedi\.android\build-cache\c787eb624b851f467b7f93bad208b89a2a730d4e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="F:\Pemrograman Android\FIX\UAS_mobile-master\app\build\intermediates\pre-dexed\debug\classes_e0879c52bfdae1349005cc5cac02a0a30565ee22.jar" />
+    </item>
+
+</items>
