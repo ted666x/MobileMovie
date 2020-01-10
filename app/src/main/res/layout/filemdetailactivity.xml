@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FilemDetailActivity" >
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:stretchColumns="1"
+        android:background="@color/colorPrimary"
+
+        >
+
+    <ImageView
+        android:id="@+id/coverFilem"
+        android:layout_width="fill_parent"
+        android:layout_height="1000px"
+        android:scaleType="centerCrop"
+        android:adjustViewBounds="true"
+        android:src="@drawable/wall"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
+
+        >
+
+        <TextView
+            android:id="@+id/txtDetailJudul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hai this is sample text for title"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textSize="25sp"
+
+            />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="55dp"
+            android:text="@string/tayang"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:textSize="17sp"/>
+
+        <TextView
+            android:id="@+id/txtdatatayang"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="55dp"
+            android:text="2018-06-01"
+            android:textStyle="bold"
+            android:textColor="@android:color/white"
+            android:textSize="17sp" />
+
+        <!--<Button-->
+
+        <!--android:id="@+id/favorite"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="35dp"-->
+        <!--android:layout_marginLeft="250dp"-->
+        <!--android:layout_marginTop="28dp"-->
+        <!--android:background="@color/colorbutton"-->
+        <!--android:textColor="@color/cardview_light_background"-->
+        <!--android:text="favorite" />-->
+
+        <ImageButton
+            android:id="@+id/notif"
+            android:layout_width="38dp"
+            android:layout_height="38dp"
+            android:layout_marginLeft="41dp"
+            android:layout_marginTop="36dp"
+            android:background="#00000000"
+            android:scaleType="centerCrop"
+            android:src="@drawable/btn_info"
+            android:layout_below="@+id/linearLayout"
+            android:layout_toRightOf="@+id/txtdatatayang" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/txtdatatayang"
+            android:layout_marginTop="20dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+
+                >
+
+                <TextView
+                    android:id="@+id/txtRingkasanAll"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:text="A brutal mugging leaves Grey Trace paralyzed in the hospital and his beloved wife dead. A billionaire inventor soon offers Trace a cure — an artificial intelligence implant called STEM that will enhance his body. Now able to walk, Grey finds that he also has superhuman strength and agility — skills he uses to seek revenge against the thugs who destroyed his life."
+                    android:textAlignment="center"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+                />
+            </LinearLayout>
+        </ScrollView>
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="2dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+        </LinearLayout>
+    </RelativeLayout >
+
+        <TextView
+            android:background="@color/colorbutton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/trailer"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            />
+
+        <fragment
+
+            android:id="@+id/youtube_player_fragment"
+            android:name="com.google.android.youtube.player.YouTubePlayerSupportFragment"
+            android:layout_width="@dimen/activity_horizontal_margin"
+            android:layout_height="500px"
+            android:layout_marginBottom="50dp"
+
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add_favorit"
+            android:textAlignment="center"
+            android:textSize="17dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="73dp"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+  </TableLayout>
+</ScrollView>
