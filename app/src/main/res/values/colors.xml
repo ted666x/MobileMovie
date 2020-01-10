@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#6a1b9a</color>
-    <color name="colorPrimaryDark">#6a1b9a</color>
-    <color name="colorAccent">#6a1b9a</color>
-    <color name="colorCard">#9c4dcc</color>
-    <color name="colorbutton">#38006b</color>
-    <color name="warnajudul">#ffffff</color>
-</resources>
